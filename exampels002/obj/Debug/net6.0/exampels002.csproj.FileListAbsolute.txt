@@ -1,0 +1,15 @@
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\bin\Debug\net6.0\exampels002.exe
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\bin\Debug\net6.0\exampels002.deps.json
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\bin\Debug\net6.0\exampels002.runtimeconfig.json
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\bin\Debug\net6.0\exampels002.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\bin\Debug\net6.0\exampels002.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.csproj.AssemblyReference.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.AssemblyInfoInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.AssemblyInfo.cs
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\refint\exampels002.dll
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.pdb
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\exampels002.genruntimeconfig.cache
+C:\Users\Владислав\OneDrive\Рабочий стол\exampels\exampels002\obj\Debug\net6.0\ref\exampels002.dll
